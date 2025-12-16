@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gorilla Tag Mod Lab</title>
+    <link rel="stylesheet" href="styles.css" />
+    <meta
+      name="description"
+      content="Professional Gorilla Tag modding lab dedicated to keeping the community's favorite mods alive through every update."
+    />
+  </head>
+  <body>
+    <header>
+      <div class="navbar">
+        <div class="brand">GORILLA TAG MOD LAB</div>
+        <nav>
+          <a href="index.html">Home</a>
+          <a href="downloads.html">Downloads</a>
+          <a href="#mission">Mission</a>
+          <a href="#services">Services</a>
+        </nav>
+      </div>
+      <div class="hero">
+        <p class="tagline">Modding with purpose</p>
+        <h1>Passion for keeping Gorilla Tag mods alive and thriving.</h1>
+        <p>
+          Gorilla Tag evolves quickly and beloved mods often break along the way. I specialize in
+          diagnosing those update pains, patching the code, and shipping clean, trustworthy builds so you
+          can jump back into the trees with the experiences you love most.
+        </p>
+        <a class="btn" href="downloads.html">Browse Windows Downloads</a>
+      </div>
+    </header>
+
+    <main>
+      <section id="mission">
+        <div class="panel">
+          <h2 class="section-title">Why I Mod</h2>
+          <p>
+            Modding started as a personal challenge to fix what the latest patch broke. It quickly became
+            a mission: keep the Gorilla Tag scene vibrant, respectful of the game, and welcoming for
+            players who rely on custom tools. Each build I publish is thoroughly tested, versioned, and
+            reviewed so you install with confidence.
+          </p>
+        </div>
+      </section>
+
+      <section id="services">
+        <div class="panel">
+          <h2 class="section-title">How I Keep Mods Updated</h2>
+          <div class="grid">
+            <article class="card">
+              <h3>Rapid Patch Response</h3>
+              <p>
+                I track Gorilla Tag updates as soon as they drop, compare diffs, and isolate changes that
+                impact public mods. This proactive workflow keeps downtime minimal for the community.
+              </p>
+            </article>
+            <article class="card">
+              <h3>Clean, Documented Builds</h3>
+              <p>
+                Every release includes changelogs, build metadata, and GitHub references so you can audit
+                the update before installing. Transparency builds trust.
+              </p>
+            </article>
+            <article class="card">
+              <h3>Virus-Free Distribution</h3>
+              <p>
+                Source repositories live on GitHub and compiled downloads are signed and scanned to ensure
+                they stay as safe as the official game client.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="panel">
+          <h2 class="section-title">Flagship Windows Mods</h2>
+          <div class="grid">
+            <article class="card">
+              <span class="badge">UNBANNER</span>
+              <h3>Safely explore private lobbies again</h3>
+              <p>
+                Purpose-built for community hosts who want to reach Red Lobbies and play with others who
+                are banned. It focuses on maintaining consistent access rather than promising to be
+                undetected, so you always understand what to expect.
+              </p>
+              <a class="outline-btn" href="downloads.html#unbanner">Get Unbanner</a>
+            </article>
+            <article class="card">
+              <span class="badge">WALKSIM REBORN</span>
+              <h3>Accessibility and training focused</h3>
+              <p>
+                WalkSim Reborn delivers classic WASD and mouse camera controls plus an in-game TAB control
+                panel. Perfect for PC players who love walking sim vibes, story-driven sessions, or need a
+                trainer-style sandbox.
+              </p>
+              <a class="outline-btn" href="downloads.html#walksim">Get WalkSim Reborn</a>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="panel">
+          <h2 class="section-title">What to Expect</h2>
+          <div class="grid">
+            <article class="card">
+              <h3>Open Communication</h3>
+              <p>
+                Release notes explain what changed, why, and how to roll back if needed. You can follow
+                along through GitHub issues and Discord announcements.
+              </p>
+            </article>
+            <article class="card">
+              <h3>Professional Delivery</h3>
+              <p>
+                Clean file tree, minimal installers, and instructions written for both veterans and players
+                installing mods for the first time.
+              </p>
+            </article>
+            <article class="card">
+              <h3>Community Commitment</h3>
+              <p>
+                Feedback is what keeps these mods sharp. I log update requests, test across multiple PC
+                setups, and make sure every build respects Gorilla Tag's community guidelines.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      &copy; <span id="year"></span> Gorilla Tag Mod Lab — Built by someone who just really loves keeping
+      your favorite mods alive.
+    </footer>
+
+    <script>
+      const year = new Date().getFullYear();
+      document.getElementById('year').textContent = year;
+    </script>
+  </body>
+</html>
