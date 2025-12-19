@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lane/Gorrila tag/RedLobbys/src/RedLobbys.csproj": {}
+  },
+  "projects": {
+    "/home/lane/Gorrila tag/RedLobbys/src/RedLobbys.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lane/Gorrila tag/RedLobbys/src/RedLobbys.csproj",
+        "projectName": "RedLobbies",
+        "projectPath": "/home/lane/Gorrila tag/RedLobbys/src/RedLobbys.csproj",
+        "packagesPath": "/home/lane/.nuget/packages/",
+        "outputPath": "/home/lane/Gorrila tag/RedLobbys/src/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.4.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

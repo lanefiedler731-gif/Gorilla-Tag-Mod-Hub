@@ -1,0 +1,7 @@
+/home/lane/Gorrila tag/RedLobbys/src/bin/Debug/netstandard2.1/RedLobbies.dll
+/home/lane/Gorrila tag/RedLobbys/src/obj/Debug/netstandard2.1/RedLobbys.csproj.AssemblyReference.cache
+/home/lane/Gorrila tag/RedLobbys/src/obj/Debug/netstandard2.1/RedLobbys.GeneratedMSBuildEditorConfig.editorconfig
+/home/lane/Gorrila tag/RedLobbys/src/obj/Debug/netstandard2.1/RedLobbys.AssemblyInfoInputs.cache
+/home/lane/Gorrila tag/RedLobbys/src/obj/Debug/netstandard2.1/RedLobbys.AssemblyInfo.cs
+/home/lane/Gorrila tag/RedLobbys/src/obj/Debug/netstandard2.1/RedLobbys.csproj.CoreCompileInputs.cache
+/home/lane/Gorrila tag/RedLobbys/src/obj/Debug/netstandard2.1/RedLobbies.dll
