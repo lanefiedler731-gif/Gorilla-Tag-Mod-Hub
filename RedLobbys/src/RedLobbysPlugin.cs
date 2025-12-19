@@ -12,7 +12,7 @@ namespace RedLobbys
     [BepInPlugin("com.lane.redlobbys", "RedLobbys", "1.0.0")]
     public class RedLobbysPlugin : BaseUnityPlugin
     {
-        public static string RedLobbyAppId = "2e890fa8-1657-4eb2-a8bb-b9e92fb57b9c";
+        public static string RedLobbyAppId = "[redacted]";
 
         private void Start()
         {
