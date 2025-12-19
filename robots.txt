@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lanefiedler731-gif.github.io/Gorilla-Tag-Mod-Hub/sitemap.xml
