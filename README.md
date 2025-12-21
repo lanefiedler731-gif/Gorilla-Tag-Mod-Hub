@@ -7,6 +7,9 @@
 Welcome to the **Gorilla Tag Mod Hub**, the central repository for all mods maintained by Lanefiedler731. Our goal is to keep your favorite mods functional, safe, and updated for the latest version of Gorilla Tag.
 
 ---
+Feeling generous? You can donate here!
+
+<img width="240" height="240" alt="test" src="https://github.com/user-attachments/assets/ad4b1cb2-e848-4a61-b49b-d0bc605546fa" />
 
 ## Included Mods
 
